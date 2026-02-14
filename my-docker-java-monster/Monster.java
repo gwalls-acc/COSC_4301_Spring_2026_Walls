@@ -19,7 +19,7 @@ public class Monster
 
     public String getDescription()
     {
-        return name + "is a " + type + "-type monster from the Neon Ark training program."
+        return name + "is a " + type + "-type monster from the Neon Ark training program.";
 
     }
 }
