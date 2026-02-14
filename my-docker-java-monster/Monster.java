@@ -1,11 +1,11 @@
-/*  Monster.java
- *  COSC 4301
- *  Gloria Walls
- *  2/13/2026
- *  Purpose: This is monster class for
- *           the Neon Ark project
- */
-
+/*
+  Name: Gloria Walls
+  Instructor: Professor Jon-Mikel Pearson
+  Assignment: Project 1
+  Due Date: 02/14/2026
+  Course/Section: COSC 4301 – Section 1
+  File Name: Monster.java
+*/
 public class Monster
 {
 
